@@ -23,7 +23,7 @@ public class ActivityA extends Activity {
 
     // State variables
     private int restartCount = 0;
-    private int threadCounter = 1;
+    private int threadCounter = 0;
     private boolean dialogWasShown = false;
 
     // Background thread
